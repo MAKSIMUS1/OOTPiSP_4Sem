@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="Lab_2_OOP_Form">
+  <title>Bred</title>
+  <id>216aaee3-d0a2-4231-af42-0d8eac459bc3</id>
+  <size>34</size>
+  <weight>3</weight>
+  <type>E</type>
+  <dateOfReceipt>2023-02-25T00:00:00</dateOfReceipt>
+  <quantity>487</quantity>
+  <price>345.45</price>
+  <manufacturer>
+    <Organization>Lays</Organization>
+    <Country>Belarus</Country>
+    <Address>Ул.Бобруйская, д.25</Address>
+    <Phone>+375-29-338-4096</Phone>
+  </manufacturer>
+  <storekeeper>
+    <LastName>Legotin</LastName>
+    <FirstName>Artem</FirstName>
+    <Patronymic>Aleksandrovich</Patronymic>
+    <WorkExperience>1</WorkExperience>
+  </storekeeper>
+</product>product>

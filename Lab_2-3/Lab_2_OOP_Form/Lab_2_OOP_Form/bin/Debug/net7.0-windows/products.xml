@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <product>
+    <title>Milk</title>
+    <id>a4dd02a9-c1ed-499b-9a5d-5b37dde1e9ee</id>
+    <size>10</size>
+    <weight>1</weight>
+    <type>E</type>
+    <dateOfReceipt>2023-03-03T02:29:24.6698924+03:00</dateOfReceipt>
+    <quantity>200</quantity>
+    <price>2</price>
+    <manufacturer>
+      <Organization>Savushkin</Organization>
+      <Country>Belarus</Country>
+      <Address>Ул.Бобруйская, д.25</Address>
+      <Phone>(375) 29232-2323</Phone>
+    </manufacturer>
+    <storekeeper>
+      <LastName>Kovalko</LastName>
+      <FirstName>Maksim</FirstName>
+      <Patronymic>Leonidovich</Patronymic>
+      <WorkExperience>2</WorkExperience>
+    </storekeeper>
+  </product>
+  <product>
+    <title>CocaCola</title>
+    <id>4c260cc3-1265-435f-ba06-4f41fa16a164</id>
+    <size>2</size>
+    <weight>3</weight>
+    <type>E</type>
+    <dateOfReceipt>2023-02-10T00:00:00</dateOfReceipt>
+    <quantity>383</quantity>
+    <price>2.8</price>
+    <manufacturer>
+      <Organization>Coca cola corporation</Organization>
+      <Country>Belarus</Country>
+      <Address>sadfg</Address>
+      <Phone>(235) 467-8990</Phone>
+    </manufacturer>
+    <storekeeper>
+      <LastName>Adamovich</LastName>
+      <FirstName>Dmitriy</FirstName>
+      <Patronymic>Nikolaevich</Patronymic>
+      <WorkExperience>3</WorkExperience>
+    </storekeeper>
+  </product>
+</ArrayOfProduct>
