@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nD92qAM2ctirNbozouw0s4cikFsS8ersXt+uIo9MyX0hO0R49YabLVcySq/sp1URel0csUj9kJkY24cQVkqGng==",
+  "success": true,
+  "projectFilePath": "D:\\BSTU\\Kurs_2_2\\OOP(C#)\\Лабораторные\\Новая папка\\Lab_4-5_Wpf\\Lab_4-5_Wpf\\Lab_4-5_Wpf.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oleg_\\.nuget\\packages\\mahapps.metro.iconpacks.material\\4.11.0\\mahapps.metro.iconpacks.material.4.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
